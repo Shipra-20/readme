@@ -1,10 +1,10 @@
-# 🌟** Project Name **
+# 🌟 Project Name
      MUSIC PLAYER
      
-## 📌 **Description**
+## 📌 Description
 This code creates a visually engaging music player sign-in page using HTML and CSS. The background features a smooth gradient transition with a subtle animated particle effect to enhance the design. The main content is a centered sign-in container with a welcoming message and a button labeled "Click ME." The container has a modern card-style design, featuring a semi-transparent white background, rounded corners, and a soft drop shadow to create a polished look. The button is designed with a vibrant gradient color, smooth hover effects, and a slight scaling animation for an interactive feel. Additionally, the page includes a fade-in animation to make elements appear smoothly upon loading. The layout is also responsive, adjusting for smaller screens to maintain usability.
 
-## 🎨 **Demo Preview (HTML & CSS)**
+## 🎨 Demo Preview (HTML & CSS)
 Here is a simple ***HTML & CSS*** snippet from the project:
 ```html
 <!DOCTYPE html>
@@ -111,11 +111,12 @@ Here is a simple ***HTML & CSS*** snippet from the project:
 </body>
 </html>
 
-## 📜**Licence**
-This project is licensed under MIT License.
+## 📜 Licence
+This project is licensed under **MIT License**.
 
-## 👥**Team & Contributors**
-SHIPRA
+## 👥 Team & Contributors  
+**SHIPRA**  
 
-## **Output Snippet**
-![image](https://github.com/user-attachments/assets/eaae6bd5-e5eb-448d-8f69-1503f5bfa9fd)
+## Output Snippet
+![image](https://github.com/user-attachments/assets/ca1dadfc-f532-4960-9fd0-a7316e8e23fa)
+
