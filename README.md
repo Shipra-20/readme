@@ -118,5 +118,4 @@ This project is licensed under **MIT License**.
 **SHIPRA**  
 
 ## Output Snippet
-![image](https://github.com/user-attachments/assets/ca1dadfc-f532-4960-9fd0-a7316e8e23fa)
-
+https://raw.githubusercontent.com/Shipra-20/readme/9a886df5d2bcb0e30d79f53af368d39c93066896/Screenshot%202025-03-18%20103929.png
